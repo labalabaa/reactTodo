@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_up_normal.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_up_normal.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_slide_bottom_out.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_slide_bottom_out.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_up_disabled.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_up_disabled.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-mdpi_icon.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_bottom_btn_list_s.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_bottom_btn_list_s.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_down_selected.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_down_selected.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_slide_right_out.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_slide_right_out.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_batchone.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/batchone.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-ldpi_icon.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_up_btn.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_up_btn.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_record_menu_bg.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_record_menu_bg.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_record_bg_shadow.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_record_bg_shadow.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_listitem.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/listitem.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_media_rec_btn_list.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_media_rec_btn_list.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_crop_ic_rotate_left.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_crop_ic_rotate_left.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_image_details_activity.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/image_details_activity.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_crop_btn_crop_operator.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_crop_btn_crop_operator.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_activity_imagelist.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/activity_imagelist.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_crop_camera_crop_height.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_crop_camera_crop_height.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_down_pressed.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_down_pressed.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/xml_mcore_provider_paths.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/xml/mcore_provider_paths.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_tab_shadow.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/tab_shadow.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_bottom_btn_cancel_s.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_bottom_btn_cancel_s.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_ic_fullscreen_shrink.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/ic_fullscreen_shrink.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_gridview_item2.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/gridview_item2.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_core_progressdialoglayout.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/core_progressdialoglayout.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_general_title_btn_before.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/general_title_btn_before.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_notice_list_bg.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/notice_list_bg.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_addon_net_progressnetworkdialoglayout.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/addon_net_progressnetworkdialoglayout.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_record_bg.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_record_bg.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_fade_out.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_fade_out.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_input_normal.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_input_normal.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_image_list_item.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/image_list_item.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_media_rec_btn_record.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_media_rec_btn_record.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_listitemtitle.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/listitemtitle.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_bottom_btn_stop_n.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_bottom_btn_stop_n.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_media_rec_btn_stop.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_media_rec_btn_stop.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_slide_left_in.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_slide_left_in.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_crop_btn_crop_pressed.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_crop_btn_crop_pressed.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_slide_right_in.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_slide_right_in.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_addon_media_crop_cropimage.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/addon_media_crop_cropimage.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_slide_top_in.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_slide_top_in.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_crop_camera_crop_width.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_crop_camera_crop_width.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_crop_indicator_autocrop.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_crop_indicator_autocrop.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_activity_media_player.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/activity_media_player.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_zoom_in.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_zoom_in.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_bottom_btn_record_s.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_bottom_btn_record_s.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_none_in.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_none_in.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_batchtwo.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/batchtwo.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_mapview.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/mapview.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_none_out.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_none_out.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_bottom_btn_cancel_n.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_bottom_btn_cancel_n.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_activity_imagelist2.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/activity_imagelist2.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_media_rec_btn_cancel.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_media_rec_btn_cancel.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_popup_recoding_bg.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_popup_recoding_bg.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_ic_fullscreen_stretch.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/ic_fullscreen_stretch.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_nativelist.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/nativelist.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_record_bg.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_record_bg.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_record_mike.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_record_mike.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_bottom_btn_stop_s.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_bottom_btn_stop_s.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_down_disabled.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_down_disabled.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_down_disabled_focused.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_down_disabled_focused.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_main.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/main.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_input_pressed.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_input_pressed.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_zoom_exit.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_zoom_exit.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_sample.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/sample.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_slide_bottom_in.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_slide_bottom_in.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_input.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_input.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_zoom_out.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_zoom_out.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_input_selected.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_input_selected.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_start_bg.jpg.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/start_bg.jpg"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_crop_ic_rotate_right.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_crop_ic_rotate_right.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_ic_cancel.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/ic_cancel.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_sample2.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/sample2.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_down_btn.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_down_btn.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_up_pressed.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_up_pressed.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_hold.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_hold.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_bottom_btn_record_n.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_bottom_btn_record_n.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_addon_media_bottom_btn_list_n.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/addon_media_bottom_btn_list_n.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_image_list.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/image_list.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout-xlarge_addon_media_audiorecorder.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout-xlarge/addon_media_audiorecorder.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_slide_left_out.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_slide_left_out.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_up_selected.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_up_selected.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_image_folder_list.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/image_folder_list.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_addon_popup_date_picker_dialog.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/addon_popup_date_picker_dialog.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_record_mike.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_record_mike.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_record_menu_bg.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_record_menu_bg.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_input_disabled.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_input_disabled.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_fade_in.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_fade_in.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_gridview_item.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/gridview_item.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_addon_popup_date_picker.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/addon_popup_date_picker.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_slide_top_out.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_slide_top_out.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_addon_media_audiorecorder.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/addon_media_audiorecorder.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-hdpi_icon.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/anim_core_zoom_enter.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/anim/core_zoom_enter.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_down_normal.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_down_normal.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable-xhdpi_addon_media_crop_selector_crop_button.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable-xhdpi/addon_media_crop_selector_crop_button.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/xml_network_security_config.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/drawable_addon_popup_picker_up_disabled_focused.9.png.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/drawable/addon_popup_picker_up_disabled_focused.9.png"
+    },
+    {
+        "merged": "mcore.edu.reactSample-merged_res-15:/layout_addon_popup_number_picker.xml.flat",
+        "source": "mcore.edu.reactSample-reactSampleMap-16:/layout/addon_popup_number_picker.xml"
+    }
+]

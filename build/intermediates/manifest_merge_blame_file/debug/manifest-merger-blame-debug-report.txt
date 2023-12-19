@@ -1,0 +1,263 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="mcore.edu.reactSample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml
+10
+11    <queries>
+11-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:34:2-38:12
+12        <intent>
+12-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:35:3-37:12
+13            <action android:name="android.media.action.IMAGE_CAPTURE" />
+13-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:36:4-63
+13-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:36:12-61
+14        </intent>
+15    </queries>
+16
+17    <uses-feature
+17-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:39:1-83
+18        android:name="android.hardware.telephony"
+18-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:39:15-56
+19        android:required="false" />
+19-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:39:57-81
+20
+21    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+21-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:40:5-74
+21-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:40:22-72
+22    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+22-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:41:5-83
+22-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:41:22-81
+23    <uses-permission android:name="android.permission.VIBRATE" />
+23-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:42:5-65
+23-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:42:22-63
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+24-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:43:5-79
+24-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:43:22-77
+25    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+25-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:44:5-80
+25-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:44:22-78
+26    <uses-permission android:name="android.permission.GET_TASKS" />
+26-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:45:5-67
+26-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:45:22-65
+27    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:46:5-67
+27-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:46:22-65
+28    <uses-permission
+28-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:47:5-101
+29        android:name="android.permission.READ_PHONE_STATE"
+29-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:47:49-99
+30        android:maxSdkVersion="29" />
+30-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:47:22-48
+31    <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
+31-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:48:5-76
+31-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:48:22-74
+32    <uses-permission android:name="android.permission.INTERNET" />
+32-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:49:5-66
+32-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:49:22-64
+33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+33-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:50:5-78
+33-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:50:22-76
+34    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+34-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:51:5-75
+34-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:51:22-73
+35    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+35-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:52:5-75
+35-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:52:22-73
+36    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+36-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:53:5-80
+36-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:53:22-78
+37    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+37-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:54:5-75
+37-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:54:22-73
+38    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+38-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:55:5-74
+38-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:55:22-72
+39    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+39-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:56:5-74
+39-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:56:22-72
+40
+41    <uses-feature android:name="android.hardware.camera" />
+41-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:57:1-55
+41-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:57:15-53
+42
+43    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+43-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:58:5-70
+43-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:58:22-68
+44    <uses-permission android:name="android.permission.CAMERA" />
+44-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:59:5-64
+44-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:59:22-62
+45    <uses-permission android:name="android.permission.FLASHLIGHT" />
+45-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:60:5-68
+45-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:60:22-66
+46    <!-- requestLegacyExternalStorage 관련 오류 발생시, Properties 에서 Android의 project Build Target을  Android 10 으로 지정 하거나, requestLegacyExternalStorage 를 삭제 -->
+47    <application
+47-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:4:2-33:19
+48        android:name="mcore.edu.reactSample.implementation.ExtendApplication"
+48-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:4:106-154
+49        android:allowBackup="false"
+49-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:4:15-42
+50        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+50-->[androidx.core:core:1.5.0] /Users/uracle/.gradle/caches/transforms-3/09dce287f966ede6f56d2bc091f83727/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+51        android:debuggable="true"
+52        android:icon="@drawable/icon"
+52-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:4:43-72
+53        android:label="@string/app_name"
+53-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:4:73-105
+54        android:networkSecurityConfig="@xml/network_security_config"
+54-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:4:155-215
+55        android:resizeableActivity="true"
+55-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:4:216-249
+56        android:testOnly="true"
+57        android:theme="@style/Theme.AppCompat.NoActionBar" >
+57-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:4:250-300
+58
+59        <!-- 에러 발생시, ${applicationId} 를 packagename 으로 변경 -->
+60        <provider
+60-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:7:3-9:14
+61            android:name="androidx.core.content.FileProvider"
+61-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:7:126-175
+62            android:authorities="mcore.edu.reactSample.provider"
+62-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:7:13-65
+63            android:exported="false"
+63-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:7:66-90
+64            android:grantUriPermissions="true" >
+64-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:7:91-125
+65            <meta-data
+65-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:8:4-112
+66                android:name="android.support.FILE_PROVIDER_PATHS"
+66-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:8:15-65
+67                android:resource="@xml/mcore_provider_paths" />
+67-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:8:66-110
+68        </provider>
+69
+70        <activity
+70-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:10:3-15:14
+71            android:name="mcore.edu.reactSample.Startup"
+71-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:10:37-60
+72            android:exported="true"
+72-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:10:13-36
+73            android:theme="@android:style/Theme.Black.NoTitleBar" >
+73-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:10:61-114
+74            <intent-filter>
+74-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:11:4-14:20
+75                <action android:name="android.intent.action.MAIN" />
+75-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:12:5-56
+75-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:12:13-54
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:13:5-64
+77-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:13:15-62
+78            </intent-filter>
+79        </activity>
+80        <activity
+80-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:16:3-162
+81            android:name="mcore.edu.reactSample.BaseActivity"
+81-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:16:132-160
+82            android:configChanges="locale|keyboardHidden|orientation|screenSize"
+82-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:16:13-81
+83            android:imeOptions="actionSend|flagNoEnterAction" />
+83-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:16:82-131
+84        <activity
+84-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:17:3-135
+85            android:name="mcore.edu.reactSample.samples.activity.ImageList1Activity"
+85-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:17:82-133
+86            android:configChanges="locale|keyboardHidden|orientation|screenSize" />
+86-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:17:13-81
+87        <activity
+87-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:18:3-135
+88            android:name="mcore.edu.reactSample.samples.activity.ImageList2Activity"
+88-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:18:82-133
+89            android:configChanges="locale|keyboardHidden|orientation|screenSize" />
+89-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:18:13-81
+90        <activity
+90-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:19:3-137
+91            android:name="mcore.edu.reactSample.samples.activity.ImageDetailsActivity"
+91-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:19:82-135
+92            android:configChanges="locale|keyboardHidden|orientation|screenSize" />
+92-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:19:13-81
+93        <activity
+93-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:20:3-130
+94            android:name="mcore.edu.reactSample.samples.activity.StartActivity"
+94-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:20:82-128
+95            android:configChanges="locale|keyboardHidden|orientation|screenSize" />
+95-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:20:13-81
+96        <activity
+96-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:21:3-131
+97            android:name="mcore.edu.reactSample.samples.activity.SampleActivity"
+97-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:21:82-129
+98            android:configChanges="locale|keyboardHidden|orientation|screenSize" />
+98-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:21:13-81
+99        <activity
+99-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:22:3-132
+100            android:name="mcore.edu.reactSample.samples.activity.SampleActivity2"
+100-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:22:82-130
+101            android:configChanges="locale|keyboardHidden|orientation|screenSize" />
+101-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:22:13-81
+102        <activity
+102-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:23:3-134
+103            android:name="mcore.edu.reactSample.samples.activity.BatchTempActivity"
+103-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:23:82-132
+104            android:configChanges="locale|keyboardHidden|orientation|screenSize" />
+104-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:23:13-81
+105        <activity
+105-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:24:3-141
+106            android:name="mcore.edu.reactSample.samples.activity.SampleNativeListActivity"
+106-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:24:82-139
+107            android:configChanges="locale|keyboardHidden|orientation|screenSize" />
+107-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:24:13-81
+108        <activity
+108-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:25:2-195
+109            android:name="m.client.android.library.core.view.MainActivity"
+109-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:25:131-193
+110            android:configChanges="locale|keyboardHidden|orientation|screenSize"
+110-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:25:12-80
+111            android:imeOptions="actionSend|flagNoEnterAction" />
+111-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:25:81-130
+112
+113        <provider
+113-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:26:9-141
+114            android:name="m.client.android.library.core.managers.LocalFileContentProvider"
+114-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:26:61-139
+115            android:authorities="@string/app_package" />
+115-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:26:19-60
+116
+117        <uses-library
+117-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:27:9-87
+118            android:name="org.apache.http.legacy"
+118-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:27:23-60
+119            android:required="false" />
+119-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:27:61-85
+120
+121        <activity
+121-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:28:5-139
+122            android:name="m.client.library.addon.media.AudioRecoderActivity"
+122-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:28:73-137
+123            android:configChanges="locale|keyboardHidden|orientation" />
+123-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:28:15-72
+124        <activity
+124-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:29:9-30:14
+125            android:name="m.client.library.addon.media.MediaPlayActivity"
+125-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:29:81-142
+126            android:configChanges="keyboardHidden|orientation|screenSize"
+126-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:29:19-80
+127            android:theme="@android:style/Theme.Black.NoTitleBar" >
+127-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:29:143-196
+128        </activity>
+129        <activity
+129-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:31:9-32:14
+130            android:name="m.client.library.addon.media.crop.CropImageActivity"
+130-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:31:81-147
+131            android:configChanges="keyboardHidden|orientation|screenSize"
+131-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:31:19-80
+132            android:theme="@android:style/Theme.Black.NoTitleBar" >
+132-->/Users/uracle/Downloads/reactSampleMap/AndroidManifest.xml:31:148-201
+133        </activity>
+134    </application>
+135
+136</manifest>
